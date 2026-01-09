@@ -56,9 +56,11 @@ I don't expect people to do any overtime. De hecho espero que la empresa sea lo 
 
 I don't have a strong opinion here.
 
-### Metrics?
+### Metrics
 
-métricas como medida (tal vez temporal) de mejora del sistema, no vinculadas a la performance de los equipos o de los individuos -- ktlo
+I'm deeply skeptical of most engineering metrics I see companies tracking. Thinking of DORA and the like. All of that tells you nothing about whether you're moving the business forward. I want metrics to be a measure (even temporary) to improve the system itself, and for god's sake **never tied to team or individual performance**.
+
+So, Sergi, how do you do performance appraisal? I don't. Career paths, to my understanding, must be defined around the problems and challenges people face and whether they are successful in dealing with them or not.
 
 ## Commandments
 
