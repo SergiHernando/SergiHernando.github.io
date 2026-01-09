@@ -40,6 +40,8 @@ Although business goes into software and we use software for building everything
 
 - There's a **technical infrastructure** that has to be built.
 
+- There are well-known **communication channels** and a **communication etiquette** in place. I try to be rigorous in how I communicate with those around me. While I greatly value informal, unstructured conversations, I need the information shared in those conversations to be preserved. Therefore, for me, both the channel and the method are important.
+
 Depending on the objective ahead, I may need to write a lot of code just like anyone else. Even though that swallows large amounts of attention, I need to find a way to be aware of what's going on and know all the details. What do I use for that purpose?
 
 - **Asynchronous code reviews with the scout hat on**, absolutely no intention to blame nobody. Actually, if a find a piece of code that for example does not adhere to this or that code conventions is actually my fault, not the author's.
