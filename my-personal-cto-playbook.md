@@ -52,7 +52,7 @@ Depending on the objective ahead, I may need to write a lot of code just like an
 
 - **Sharing in-depth periodic updates with the entire organization**. This includes the publication of postmortems: If part or all of the system goes down, affecting customers, coworkers, or both, I always explain what happened, why it happened, and what we're going to do to prevent it from happening again.
 
-### Work-life balance?
+### Working with me
 
 I don't expect people to do any overtime. De hecho espero que la empresa sea lo suficientemente madura como para entender que encorsetar el trabajo creativo en una estructura horaria rígida.
 
@@ -62,7 +62,7 @@ I don't have a strong opinion here.
 
 ### Metrics
 
-I'm deeply skeptical of most engineering metrics I see companies tracking. Thinking of DORA and the like. All of that tells you nothing about whether you're moving the business forward. I want metrics to be a measure (even temporary) to improve the system itself, and for god's sake **never tied to team or individual performance**.
+I'm skeptical of most engineering metrics I see companies tracking. Thinking of DORA and the like. All of that tells you nothing about whether you're moving the business forward. I want metrics to be a measure (even temporary) to improve the system itself, and for god's sake **never tied to team or individual performance**. What I do believe in: SLAs and SLOs. That is: the intersection of the commitments with ourselves and with our customers.
 
 So, Sergi, how do you do performance appraisal? I don't. Career paths, to my understanding, must be defined around the problems and challenges people face and whether they are successful in dealing with them or not.
 
