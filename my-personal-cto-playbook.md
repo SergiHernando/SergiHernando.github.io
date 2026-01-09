@@ -3,6 +3,9 @@
 > [!NOTE]
 > Rough draft
 
+> [!IMPORTANT]
+> Human-generated content
+
 A veces me he preguntado: cuál es mi método. Siempre respondía: depende del contexto. Lo cierto es que no es así. Es decir, el camino que voy a tomar sí que depende del contexto, pero la aproximación a los problemas o condicionantes tiene ciertos patrones que he repetido en cada situación.
 
 Based on my experience leading technology at startup ventures in their 0 to 1 and 1 to 10 growth stages, pre-series A and post-PMF, this is the playbook I wish I had when I started in 2010 my own leadership path.
