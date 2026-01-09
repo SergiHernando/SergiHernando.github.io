@@ -54,11 +54,11 @@ Depending on the objective ahead, I may need to write a lot of code just like an
 
 ### Working with me
 
-I don't expect people to do any overtime. De hecho espero que la empresa sea lo suficientemente madura como para entender que encorsetar el trabajo creativo en una estructura horaria rígida.
+I don't expect overtime. If it's happening regularly, I broke something. Occasional crunch before a major release? Fine, as long as it's the exception and everyone knows it.
 
-### A brief note about remote work
+On remote vs. office: I don't have a dogmatic position. Some teams thrive fully remote; others need to be in the same room, maybe especially early on when still figuring things out. IDK. For sure I'm not buying office time as a proxy for productivity: that's lazy management (to say it softly).
 
-I don't have a strong opinion here.
+Creative work doesn't fit into a box. I expect the organization to be mature enough to understand this. If someone does their best thinking at 7am or 10pm, I'm not going to force them into arbitrary schedules. What I do ask for is communication. Team work only works when people actually communicate. ITOH, people should not be always available. Deep work requires protecting time.
 
 ### Metrics
 
