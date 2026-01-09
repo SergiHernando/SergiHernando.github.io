@@ -16,6 +16,8 @@ Time frame is between next year and the other next:
 
 - **Budget**: How much money can we spend. Easy question, difficult answer. Specially difficult for leadership who's not used to make bets. They'll have a tendency to demand dates along with a list of features. I respond: What do we need to achieve in terms of business outcomes? With that I try to force a discussion with the founders so that everybody understands what should be the investment and why.
 
+  Heads up: I won't consider myself a CTO if I can't manage a budget. Chiefs without budget are not chiefs. Strong opinion here.
+
 - **Teams**: Once we know the money, I can draft a plan. My plans do not include tasks, assignments nor milestones. It's a matter of hiring the right people to execute today and to be ready for next stage tomorrow. What do I look in candidates? (1) People whom I share that working software is the only measure of progress, (2) People that take nothing for granted, and (3) People that are willing to niteract with other people in the organization regardless of their roles.
 
 - **Technology**: This is the obvious part, but I have to beat some intermediate monsters yet. Being the technology leader is my responsibility to research and build exactly what's important for the bussiness to move forward. Tough but mandatory to push back engineers' ideas to implement this or that that does not clearly solves a business case.
