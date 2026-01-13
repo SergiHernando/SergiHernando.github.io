@@ -6,7 +6,7 @@
 > [!IMPORTANT]
 > Human-generated content
 
-A veces me he preguntado: cuál es mi método. Siempre respondía: depende del contexto. Lo cierto es que no es así. Es decir, el camino que voy a tomar sí que depende del contexto, pero la aproximación a los problemas o condicionantes tiene ciertos patrones que he repetido en cada situación.
+I've sometimes asked myself: what is my method? I always answered: it depends on the context. The truth is, that's not quite right. The path I'll take does depend on the context, but my approach to problems or constraints follows certain patterns I've repeated in every situation.
 
 Based on my experience leading technology at startup ventures in their 0 to 1 and 1 to 10 growth stages, pre-series A and post-PMF, this is the playbook I wish I had when I started in 2010 my own leadership path.
 
@@ -30,17 +30,17 @@ Time frame is between next year and the other next:
 
 ## Heuretics
 
-### Reglas no escritas
+### Unwritten Rules
 
-Todos los negocios tienen una idiosincrasia, una razón de ser o unas líneas rojas que, especialmente en fases iniciales, no siempre se expresan explícitamente verbalmente o por escrito. Una de las primeras cosas que hago es identificar esos códigos y trasladarlos a unos principios que deben guiar a mis equipos ante la duda.
+Every business has its own idiosyncrasies, a reason for being, or certain red lines that — especially in early stages — are not always explicitly stated verbally or in writing. One of the first things I do is identify those codes and translate them into principles that should guide my teams when in doubt.
 
-Un par de ejemplos serían los siguientes. Si la empresa está en FinTech y el producto básicamente hace operaciones aritméticas con decimales, trasladaría eso a un valor del equipo: la precisión. Si el producto está en un entorno regulado como en HealthTech, un valor del equipo sería la trazabilidad – todo lo que hacemos debe quedar registrado, cuándo, por quién y por qué.
+A couple of examples. If the company is in FinTech and the product basically performs arithmetic operations with decimals, I would translate that into a team value: precision. If the product operates in a regulated environment like HealthTech, a team value would be traceability — everything we do must be recorded: when, by whom, and why.
 
-Tengo siempre en cuenta también que esto puede cambiar con el tiempo. Me gusta cuestionar los valores que las empresas publican: talento, calidad, innovación… Alguien piensa que sin personas se puede construir algo? Y algo que no satisface correctamente su utilidad? Y alguna empresa prefiere estancarse tecnológicamente? Por supuesto que no. Con lo cual, creo que los valores son de todo menos obvios. Y es imposible describirlos de antemano.
+I also keep in mind that this can change over time. I like to question the values that companies publish: talent, quality, innovation… Does anyone think you can build something without people? Or something that doesn't properly fulfill its purpose? Or that any company prefers to stagnate technologically? Of course not. Therefore, I believe values are anything but obvious. And it's impossible to describe them beforehand.
 
 ### Software
 
-Tomar decisiones de arquitectura que no limiten/impidan/condicionen el futuro de la empresa.
+Make architectural decisions that don't limit, prevent, or constrain the company's future.
 
 Although business goes into software and we use software for building everything, software is just a part. For building software properly, to me it's fundamental that the following also happens:
 
