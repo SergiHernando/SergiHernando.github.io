@@ -26,7 +26,7 @@ Time frame is between next year and the other next:
 
   And I need people with high agency. I don't ask my direct reports to manage up; that's not their job. But when someone chooses to give me context without being asked, who cares enough to understand my decisions, who wants to be part of the leadership conversation, who pushes back when I'm cutting corners — that person multiplies my effectiveness by ten. That's the energy I'm building for.
 
-- **Technology**: This is the obvious part, but I have to beat some intermediate monsters yet. Being the technology leader is my responsibility to research and build exactly what's important for the bussiness to move forward. Tough but mandatory to push back engineers' ideas to implement this or that that does not clearly solves a business case. And most importantly: we must help senior engineers identify and develop those business cases.
+- **Technology**: This is the obvious part, but I have to beat some intermediate monsters yet. Being the technology leader is my responsibility to research and build exactly what's important for the business to move forward. Tough but mandatory to push back engineers' ideas to implement this or that that does not clearly solves a business case. And most importantly: we must help senior engineers identify and develop those business cases.
 
 ## Heuretics
 
@@ -43,7 +43,7 @@ I also keep in mind that this can change over time. I like to question the value
 Make architectural decisions that don't limit, prevent, or constrain the company's future. Having said that: When to acquire technical debt? Do it when the the answer to these two questions is yes:
 
 - [ ] There's not enough data to make an informed decision.
-- [ ] If implementation must change once we get enough data, we can acommodate those changes with no major changes in the architecture.
+- [ ] If implementation must change once we get enough data, we can accommodate those changes with no major changes in the architecture.
 
 Although business goes into software and we use software for building everything, software is just a part. For building software properly, to me it's fundamental that the following also happens:
 
@@ -57,7 +57,7 @@ Depending on the objective ahead, I may need to write a lot of code just like an
 
 - **Asynchronous code reviews with the scout hat on**, absolutely no intention to blame nobody. Actually, if a find a piece of code that for example does not adhere to this or that code conventions is actually my fault, not the author's.
 
-- **Regular conversations with direct reports and peer managers**. I don't use a template to conduct 1:1 meetings and I let conversations naturaly navigate recent events. Structured 1:1's give me the impression of being somewhat forced, whereas I want them to be the complete opposite.
+- **Regular conversations with direct reports and peer managers**. I don't use a template to conduct 1:1 meetings and I let conversations naturally navigate recent events. Structured 1:1's give me the impression of being somewhat forced, whereas I want them to be the complete opposite.
 
 - **Sharing in-depth periodic updates with the entire organization**. This includes the publication of postmortems: If part or all of the system goes down, affecting customers, coworkers, or both, I always explain what happened, why it happened, and what we're going to do to prevent it from happening again.
 
