@@ -20,6 +20,12 @@ Time frame is between next year and the other next:
 
 - **Teams**: Once we know the money, I can draft a plan. My plans do not include tasks, assignments nor milestones. It's a matter of hiring the right people to execute today and to be ready for next stage tomorrow. What do I look in candidates? (1) People whom I share that working software is the only measure of progress, (2) People that take nothing for granted, and (3) People that are willing to niteract with other people in the organization regardless of their roles.
 
+  A critical note: I'm building teams where there's no "yours" or "mine." Code, systems, designs — they belong to the company. People who need to satisfy individual ambitions, who need their ego stroked, who claim ownership of their work as a way to dodge accountability — those are expensive problems.
+
+  I need people who help each other without keeping score. People who disagree but come with a proposal, not just a complaint. People who ruthlessly weight what the customer is willing to pay for, not what's technically elegant or personally interesting. People who avoid hiding behind subjectivity — "this is too hard" or "this is bad design" — and instead ask: does it solve the business problem?
+
+  And I need people with high agency. I don't ask my direct reports to manage up; that's not their job. But when someone chooses to give me context without being asked, who cares enough to understand my decisions, who wants to be part of the leadership conversation, who pushes back when I'm cutting corners — that person multiplies my effectiveness by ten. That's the energy I'm building for.
+
 - **Technology**: This is the obvious part, but I have to beat some intermediate monsters yet. Being the technology leader is my responsibility to research and build exactly what's important for the bussiness to move forward. Tough but mandatory to push back engineers' ideas to implement this or that that does not clearly solves a business case.
 
 ## Heuretics
@@ -65,6 +71,18 @@ Creative work doesn't fit into a box. I expect the organization to be mature eno
 I'm skeptical of most engineering metrics I see companies tracking. Thinking of DORA and the like. All of that tells you nothing about whether you're moving the business forward. I want metrics to be a measure (even temporary) to improve the system itself, and for god's sake **never tied to team or individual performance**. What I do believe in: SLAs and SLOs. That is: the intersection of the commitments with ourselves and with our customers.
 
 So, Sergi, how do you do performance appraisal? I don't. Career paths, to my understanding, must be defined around the problems and challenges people face and whether they are successful in dealing with them or not.
+
+### Communication
+
+Every week, we share the progress of our teams in a tone of momentum. Yes, even the failures. When something breaks — whether it affects customers or just us — we write a detailed postmortem: what happened, how we fixed it, what we're building to prevent it next time. I take full responsibility. You'll never see names in those documents. We're learning from the system, not blaming people.
+
+### Decision-Making
+
+Some decisions are mine to make; some are yours. Before we ever find ourselves in disagreement, we clarify which is which.
+
+Big architectural decisions — major refactors, integrating new systems or tools, choosing between a quick-and-dirty solution or slow-and-well-built, rapid prototypes versus minimum viable products — these never happen alone. I talk with product managers and tech leads. We argue, we decide together.
+
+I'm explicit about the framework: "On this, I decide but I need your input." Or: "On this, you decide; I'm here to support and communicate up." The boundaries matter.
 
 ## Commandments
 
