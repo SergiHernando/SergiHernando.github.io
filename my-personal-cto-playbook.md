@@ -26,7 +26,7 @@ Time frame is between next year and the other next:
 
   And I need people with high agency. I don't ask my direct reports to manage up; that's not their job. But when someone chooses to give me context without being asked, who cares enough to understand my decisions, who wants to be part of the leadership conversation, who pushes back when I'm cutting corners — that person multiplies my effectiveness by ten. That's the energy I'm building for.
 
-- **Technology**: This is the obvious part, but I have to beat some intermediate monsters yet. Being the technology leader is my responsibility to research and build exactly what's important for the bussiness to move forward. Tough but mandatory to push back engineers' ideas to implement this or that that does not clearly solves a business case.
+- **Technology**: This is the obvious part, but I have to beat some intermediate monsters yet. Being the technology leader is my responsibility to research and build exactly what's important for the bussiness to move forward. Tough but mandatory to push back engineers' ideas to implement this or that that does not clearly solves a business case. And most importantly: we must help senior engineers identify and develop those business cases.
 
 ## Heuretics
 
@@ -40,7 +40,10 @@ I also keep in mind that this can change over time. I like to question the value
 
 ### Software
 
-Make architectural decisions that don't limit, prevent, or constrain the company's future.
+Make architectural decisions that don't limit, prevent, or constrain the company's future. Having said that: When to acquire technical debt? Do it when the the answer to these two questions is yes:
+
+- [ ] There's not enough data to make an informed decision.
+- [ ] If implementation must change once we get enough data, we can acommodate those changes with no major changes in the architecture.
 
 Although business goes into software and we use software for building everything, software is just a part. For building software properly, to me it's fundamental that the following also happens:
 
