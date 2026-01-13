@@ -40,13 +40,13 @@ Tengo siempre en cuenta también que esto puede cambiar con el tiempo. Me gusta 
 
 ### Software
 
-Tomar decisiones de arquitectura que no limiten/impidan/condicionen el futuro de la empresa.
+Tomar decisiones de arquitectura que no limiten/impidan/condicionen el futuro de la empresa. Infrastructure is not separate from the product — it is part of the product. Where your infrastructure lives and how it scales shapes what you can build and what customers can do with it.
 
 Although business goes into software and we use software for building everything, software is just a part. For building software properly, to me it's fundamental that the following also happens:
 
 - There's a **shared understanding** of the problems we are trying to solve among all the stakeholders.
 
-- There's a **technical infrastructure** that has to be built.
+- There's a **technical infrastructure** that has to be built. Infrastructure is not separate from the product — it is part of the product. Where your infrastructure lives and how it scales shapes what you can build and what customers can do with it.
 
 - There are well-known **communication channels** and a **communication etiquette** in place. I try to be rigorous in how I communicate with those around me. While I greatly value informal, unstructured conversations, I need the information shared in those conversations to be preserved. Therefore, for me, both the channel and the method are important.
 
@@ -66,6 +66,8 @@ On remote vs. office: I don't have a dogmatic position. Some teams thrive fully 
 
 Creative work doesn't fit into a box. I expect the organization to be mature enough to understand this. If someone does their best thinking at 7am or 10pm, I'm not going to force them into arbitrary schedules. What I do ask for is communication. Team work only works when people actually communicate. ITOH, people should not be always available. Deep work requires protecting time.
 
+I don't have all the answers. And more importantly: I don't want to. If you're waiting for me to tell you what to do, we have a problem. I expect you to think, propose, disagree, and own outcomes. My job is to provide context and remove blockers — not to be the repository of all decisions.
+
 ### Metrics
 
 I'm skeptical of most engineering metrics I see companies tracking. Thinking of DORA and the like. All of that tells you nothing about whether you're moving the business forward. I want metrics to be a measure (even temporary) to improve the system itself, and for god's sake **never tied to team or individual performance**. What I do believe in: SLAs and SLOs. That is: the intersection of the commitments with ourselves and with our customers.
@@ -83,8 +85,3 @@ Some decisions are mine to make; some are yours. Before we ever find ourselves i
 Big architectural decisions — major refactors, integrating new systems or tools, choosing between a quick-and-dirty solution or slow-and-well-built, rapid prototypes versus minimum viable products — these never happen alone. I talk with product managers and tech leads. We argue, we decide together.
 
 I'm explicit about the framework: "On this, I decide but I need your input." Or: "On this, you decide; I'm here to support and communicate up." The boundaries matter.
-
-## Commandments
-
-- Infrastructure is an intrinsic part of the product.
-- I don't have all the answers but most importantly: I don't want to.
