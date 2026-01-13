@@ -59,7 +59,7 @@ Depending on the objective ahead, I may need to write a lot of code just like an
 
 - **Regular conversations with direct reports and peer managers**. I don't use a template to conduct 1:1 meetings and I let conversations naturally navigate recent events. Structured 1:1's give me the impression of being somewhat forced, whereas I want them to be the complete opposite.
 
-- **Sharing in-depth periodic updates with the entire organization**. This includes the publication of postmortems: If part or all of the system goes down, affecting customers, coworkers, or both, I always explain what happened, why it happened, and what we're going to do to prevent it from happening again.
+- **Sharing in-depth periodic updates with the entire organization**.
 
 ### Working with me
 
