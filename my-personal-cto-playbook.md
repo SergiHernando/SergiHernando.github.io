@@ -18,7 +18,7 @@ Time frame is between next year and the other next:
 
   Note to self. The 'Chief' in CTO requires two things: I control the technology budget, and I actively identify and champion new business opportunities. Without both, I'm not doing the job.
 
-- **Teams**: Once we know the money, I can draft a plan. My plans do not include tasks, assignments nor milestones. It's a matter of hiring the right people to execute today and to be ready for next stage tomorrow. What do I look in candidates? (1) People whom I share that working software is the only measure of progress, (2) People that take nothing for granted, and (3) People that are willing to niteract with other people in the organization regardless of their roles.
+- **Teams**: Once we know the money, I can draft a plan. My plans do not include tasks, assignments nor milestones. It's a matter of hiring the right people to execute today and to be ready for next stage tomorrow. What do I look in candidates? (1) People whom I share that working software is the only measure of progress, (2) People that take nothing for granted, and (3) People that are willing to interact with other people in the organization regardless of their roles.
 
   A critical note: I'm building teams where there's no "yours" or "mine." Code, systems, designs — they belong to the company. People who need to satisfy individual ambitions, who need their ego stroked, who claim ownership of their work as a way to dodge accountability — those are expensive problems.
 
@@ -40,7 +40,7 @@ Tengo siempre en cuenta también que esto puede cambiar con el tiempo. Me gusta 
 
 ### Software
 
-Tomar decisiones de arquitectura que no limiten/impidan/condicionen el futuro de la empresa. Infrastructure is not separate from the product — it is part of the product. Where your infrastructure lives and how it scales shapes what you can build and what customers can do with it.
+Tomar decisiones de arquitectura que no limiten/impidan/condicionen el futuro de la empresa.
 
 Although business goes into software and we use software for building everything, software is just a part. For building software properly, to me it's fundamental that the following also happens:
 
