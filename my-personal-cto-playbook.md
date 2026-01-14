@@ -10,19 +10,25 @@ Based on my experience leading technology at startup ventures in their 0 to 1 an
 
 Time frame is between next year and the other next:
 
-- **Budget**: How much money can we spend. Easy question, difficult answer. Specially difficult for leadership who's not used to make bets. They'll have a tendency to demand dates along with a list of features. I respond: What do we need to achieve in terms of business outcomes? With that I try to force a discussion with the founders so that everybody understands what should be the investment and why.
+### Budget
 
-  Note to self. The 'Chief' in CTO requires two things: I control the technology budget, and I actively identify and champion new business opportunities. Without both, I'm not doing the job.
+How much money can we spend. Easy question, difficult answer. Specially difficult for leadership who's not used to make bets. They'll have a tendency to demand dates along with a list of features. I respond: What do we need to achieve in terms of business outcomes? With that I try to force a discussion with the founders so that everybody understands what should be the investment and why.
 
-- **Teams**: Once we know the money, I can draft a plan. My plans do not include tasks, assignments nor milestones. It's a matter of hiring the right people to execute today and to be ready for next stage tomorrow. What do I look in candidates? (1) People whom I share that working software is the only measure of progress, (2) People that take nothing for granted, and (3) People that are willing to interact with other people in the organization regardless of their roles.
+Note to self. The 'Chief' in CTO requires two things: I control the technology budget, and I actively identify and champion new business opportunities. Without both, I'm not doing the job.
 
-  A critical note: I'm building teams where there's no "yours" or "mine." Code, systems, designs — they belong to the company. People who need to satisfy individual ambitions, who need their ego stroked, who claim ownership of their work as a way to dodge accountability — those are expensive problems.
+### Teams
 
-  I need people who help each other without keeping score. People who disagree but come with a proposal, not just a complaint. People who ruthlessly weight what the customer is willing to pay for, not what's technically elegant or personally interesting. People who avoid hiding behind subjectivity — "this is too hard" or "this is bad design" — and instead ask: does it solve the business problem?
+Once we know the money, I can draft a plan. My plans do not include tasks, assignments nor milestones. It's a matter of hiring the right people to execute today and to be ready for next stage tomorrow. What do I look in candidates? (1) People whom I share that working software is the only measure of progress, (2) People that take nothing for granted, and (3) People that are willing to interact with other people in the organization regardless of their roles.
 
-  And I need people with high agency. I don't ask my direct reports to manage up; that's not their job. But when someone chooses to give me context without being asked, who cares enough to understand my decisions, who wants to be part of the leadership conversation, who pushes back when I'm cutting corners — that person multiplies my effectiveness by ten. That's the energy I'm building for.
+I'm building teams where there's no "yours" or "mine." Code, systems, designs — they belong to the company. People who need to satisfy individual ambitions, who need their ego stroked, who claim ownership of their work as a way to dodge accountability — those are expensive problems.
 
-- **Technology**: This is the obvious part, but I have to beat some intermediate monsters yet. Being the technology leader is my responsibility to research and build exactly what's important for the business to move forward. Tough but mandatory to push back engineers' ideas to implement this or that that does not clearly solves a business case. And most importantly: we must help senior engineers identify and develop those business cases.
+I need people who help each other without keeping score. People who disagree but come with a proposal, not just a complaint. People who ruthlessly weight what the customer is willing to pay for, not what's technically elegant or personally interesting. People who avoid hiding behind subjectivity — "this is too hard" or "this is bad design" — and instead ask: does it solve the business problem?
+
+And I need people with high agency. I don't ask my direct reports to manage up; that's not their job. But when someone chooses to give me context without being asked, who cares enough to understand my decisions, who wants to be part of the leadership conversation, who pushes back when I'm cutting corners — that person multiplies my effectiveness by ten. That's the energy I'm building for.
+
+### Technology
+
+This is the obvious part, but I have to beat some intermediate monsters yet. Being the technology leader is my responsibility to research and build exactly what's important for the business to move forward. Tough but mandatory to push back engineers' ideas to implement this or that that does not clearly solves a business case. And most importantly: we must help senior engineers identify and develop those business cases.
 
 ## Heuretics
 
