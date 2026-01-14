@@ -8,15 +8,11 @@ Based on my experience leading technology at startup ventures in their 0 to 1 an
 
 ## Responsibilities
 
-Time frame is between next year and the other next:
-
-### Budget
+### Budget Ownership
 
 How much money can we spend. Easy question, difficult answer. Specially difficult for leadership who's not used to make bets. They'll have a tendency to demand dates along with a list of features. I respond: What do we need to achieve in terms of business outcomes? With that I try to force a discussion with the founders so that everybody understands what should be the investment and why.
 
-Note to self. The 'Chief' in CTO requires two things: I control the technology budget, and I actively identify and champion new business opportunities. Without both, I'm not doing the job.
-
-### Teams
+### Team Configuration
 
 Once we know the money, I can draft a plan. My plans do not include tasks, assignments nor milestones. It's a matter of hiring the right people to execute today and to be ready for next stage tomorrow. What do I look in candidates? (1) People whom I share that working software is the only measure of progress, (2) People that take nothing for granted, and (3) People that are willing to interact with other people in the organization regardless of their roles.
 
@@ -26,9 +22,15 @@ I need people who help each other without keeping score. People who disagree but
 
 And I need people with high agency. I don't ask my direct reports to manage up; that's not their job. But when someone chooses to give me context without being asked, who cares enough to understand my decisions, who wants to be part of the leadership conversation, who pushes back when I'm cutting corners — that person multiplies my effectiveness by ten. That's the energy I'm building for.
 
-### Technology
+### Technology Foundation
 
 This is the obvious part, but I have to beat some intermediate monsters yet. Being the technology leader is my responsibility to research and build exactly what's important for the business to move forward. Tough but mandatory to push back engineers' ideas to implement this or that that does not clearly solves a business case. And most importantly: we must help senior engineers identify and develop those business cases.
+
+### Business Development
+
+The 'Chief' in CTO requires two things: I control the technology budget, and I actively identify and champion new business opportunities. Without both, I'm not doing the job.
+
+To-Be-Completed
 
 ## Heuretics
 
@@ -90,3 +92,7 @@ Some decisions are mine to make; some are yours. Before we ever find ourselves i
 Big architectural decisions — major refactors, integrating new systems or tools, choosing between a quick-and-dirty solution or slow-and-well-built, rapid prototypes versus minimum viable products — these never happen alone. I talk with product managers and tech leads. We argue, we decide together.
 
 I'm explicit about the framework: "On this, I decide but I need your input." Or: "On this, you decide; I'm here to support and communicate up." The boundaries matter.
+
+### Time Frame
+
+To-Do
