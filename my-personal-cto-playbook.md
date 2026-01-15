@@ -68,7 +68,7 @@ I don't expect overtime. If it's happening regularly, I broke something. Occasio
 
 On remote vs. office: I don't have a dogmatic position. Some teams thrive fully remote; others need to be in the same room, maybe especially early on when still figuring things out. IDK. For sure I'm not buying office time as a proxy for productivity: that's lazy management (to say it softly).
 
-Creative work doesn't fit into a box. I expect the organization to be mature enough to understand this. If someone does their best thinking at 7am or 10pm, I'm not going to force them into arbitrary schedules. What I do ask for is communication. Team work only works when people actually communicate. ITOH, people should not be always available. Deep work requires protecting time.
+Creative work doesn't fit into a box. I expect the organization to be mature enough to understand this. If someone does their best thinking at 7am or 10pm, I'm not going to force them into arbitrary schedules. What I do ask for is communication. Team work only works when people actually communicate. OTOH, people should not be always available. Deep work requires protecting time.
 
 I don't have all the answers. And more importantly: I don't want to. If you're waiting for me to tell you what to do, we have a problem. I expect you to think, propose, disagree, and own outcomes. My job is to provide context and remove blockers — not to be the repository of all decisions.
 
