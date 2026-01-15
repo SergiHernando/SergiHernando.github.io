@@ -56,7 +56,7 @@ Depending on the objective ahead, I may need to write a lot of code just like an
 
 - **Regular conversations with direct reports and peer managers**. I don't use a template to conduct 1:1 meetings and I let conversations naturally navigate recent events. Structured 1:1's give me the impression of being somewhat forced, whereas I want them to be the complete opposite.
 
-- **Sharing in-depth periodic updates with the entire organization**.
+- **Sharing in-depth periodic updates with the entire organization**. As I gather data, I obtain information and can get an idea of the perception that the rest of the organization may have of how we build technology.
 
 ### Working with me
 
