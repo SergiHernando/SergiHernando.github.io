@@ -60,7 +60,7 @@ Depending on the objective ahead, I may need to write a lot of code just like an
 
 - **Sharing in-depth periodic updates with the entire organization**.
 
-Neither compliance nor information security are optional. It's up to you whether you treat them as a necessary evil or as an opportunity.
+Neither compliance nor information security are optional. It's up to you whether you treat them as a necessary evil or as an opportunity. Your compliance posture closes deals.
 
 ### Working with me
 
