@@ -30,8 +30,6 @@ This is the obvious part, but I have to beat some intermediate monsters yet. Bei
 
 The 'Chief' in CTO requires two things: I control the technology budget, and I actively identify and champion new business opportunities. Without both, I'm not doing the job.
 
-To-Be-Completed
-
 ## Heuretics
 
 ### Unwritten Rules
@@ -48,7 +46,7 @@ Although business goes into software and we use software for building everything
 
 - There's a **shared understanding** of the problems we are trying to solve among all the stakeholders.
 
-- There's a **technical infrastructure** that has to be built. Infrastructure is not separate from the product — it is part of the product. Where your infrastructure lives and how it scales shapes what you can build and what customers can do with it.
+- There's a **technical infrastructure** that has to be built. Infrastructure is not separate from the product — it is part of the product. Where your infrastructure lives and how it scales shapes what you can build and what customers can do with it. The same applies to compliance and information security: neither is optional, and it's up to you whether you treat them as a necessary evil or as an opportunity. Your compliance posture closes deals.
 
 - There are well-known **communication channels** and a **communication etiquette** in place. I try to be rigorous in how I communicate with those around me. While I greatly value informal, unstructured conversations, I need the information shared in those conversations to be preserved. Therefore, for me, both the channel and the method are important.
 
@@ -59,8 +57,6 @@ Depending on the objective ahead, I may need to write a lot of code just like an
 - **Regular conversations with direct reports and peer managers**. I don't use a template to conduct 1:1 meetings and I let conversations naturally navigate recent events. Structured 1:1's give me the impression of being somewhat forced, whereas I want them to be the complete opposite.
 
 - **Sharing in-depth periodic updates with the entire organization**.
-
-Neither compliance nor information security are optional. It's up to you whether you treat them as a necessary evil or as an opportunity. Your compliance posture closes deals.
 
 ### Working with me
 
@@ -89,7 +85,3 @@ Some decisions are mine to make; some are yours. Before we ever find ourselves i
 Big architectural decisions — major refactors, integrating new systems or tools, choosing between a quick-and-dirty solution or slow-and-well-built, rapid prototypes versus minimum viable products — these never happen alone. I talk with product managers and tech leads. We argue, we decide together.
 
 I'm explicit about the framework: "On this, I decide but I need your input." Or: "On this, you decide; I'm here to support and communicate up." The boundaries matter.
-
-### Time Frame
-
-To-Do
