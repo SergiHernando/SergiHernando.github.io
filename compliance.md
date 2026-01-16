@@ -15,3 +15,29 @@ Si lo primero que pensamos cuando ponemos el cumplimiento sobre la mesa es de cu
 En salud el impacto del incumplimiento es tal que te puede sacar del mercado directamente y en ese caso tienes un problema mucho más que económico. Nos pasa que en otras verticales el impacto puede parecer bajo; todo depende de cómo vayas de caja. En una startup que normalmente no tiene a nadie dedicado a estos temas porque se lo suele llevar una agencia (que básicamente prepara los textos legales) y le está costando la vida encontrar su lugar en el mundo, una sanción por incumplimiento igual no la deja fuera del juego pero sí le puede reducir uno o dos meses el runway. Así que no es ninguna tontería.
 
 Pienso que muchas organizaciones que hacen software deberían aprender a gestionarse en base a riesgos para adquirir consciencia del mundo en el que viven y de las implicaciones de hacer o dejar de hacer según qué cosas.
+
+## SDLC
+
+La suerte que tenemos de vivir la época que estamos viviendo es que el coste de mitigar los riesgos asociados al incumplimiento están bajando a medida que los LLM se hacen más expertos y, lo mejor de todo, es que puedes automatizarlo e incorporarlo en tu SDLC con poco esfuerzo y mucha solvencia &mdash; continuous compliance.
+
+Por ejemplo, este es un informe generado con Claude Sonnet después de contrastar el código fuente de un proyecto en fase muy inicial con los principios y requerimientos de la RGPD:
+
+```
+Most Critical Issues:
+
+1. Unencrypted In-Memory Storage - User data stored in plain Python dictionaries without encryption
+2. GitHub Tokens Stored Without Encryption - OAuth tokens vulnerable in sessions
+3. PII Sent to Sentry - User data exposed to third-party error tracking service
+4. User Profile Bug - Undefined variable causes crashes and data loss
+5. HTTPS Disabled - Sessions transmitted without encryption in production
+
+Key Compliance Gaps:
+
+- No Data Subject Rights Implementation - Users can't exercise their GDPR rights (access, deletion, portability, etc.)
+- No Consent Management - No cookie consent or explicit consent collection
+- No Data Retention Policies - Data kept indefinitely
+- Missing Documentation - No Privacy Policy, DPIA, or Data Processing Agreements
+- No Audit Logging - Cannot track who accessed what data when
+```
+
+Comparad esto con lanzar una consulta por email al profesional de referencia que responderá cuando buenamente pueda con lo que buenamente entiende o conoce de tu producto. Yo no lo desaprovecharía. Y las asesorías o despachos que se dediquen a estas cosas pueden aprovecharlo también, pero eso es harina de otro costal que queda bastante lejos de mis competencias.
