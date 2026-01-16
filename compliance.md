@@ -1,3 +1,5 @@
+Moià, 16 de enero de 2026
+
 # Software y cumplimiento
 
 Seguramente el cumplimiento de la normativa se siente como algo incómodo, un mal necesario, algo que si pudiéramos evitar, lo evitaríamos. Entiendo que la regulación está pensada, en buena parte, para proteger. Como por ejemplo la RGPD y la LOPDGDD están para que no puedas hacer lo que te de la gana con los datos personales.
