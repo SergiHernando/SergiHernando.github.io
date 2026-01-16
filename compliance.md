@@ -8,6 +8,4 @@ Cuando estudias marketing, administración de empresas, etc, a parte del DAFO si
 
 El software craftsmanship está muy bien pero la parte de ingeniería es esto, es entender también que el software tiene que ser viable con lo cual necesitas entender el marco legal que a su vez te lleva a entender mejor el negocio en general.
 
-PESTEL - entender marco legal = entender negocio
-
 Integrar el cumplimiento de la normativa en el SDLC no es solo un requisito sino una oportunidad de que los equipos que hacen software sean mejores, dotando a la tecnología que desarrollan de una base impecable, sin limitarnos a nosotros mismos pensando que eso es cosa de bancos. Con lo cual yo invito a todas las personas que se dedican a esto que lo incorporen sin esperar a que "el de compliance" le pida unos cambios al product manager y etc.
