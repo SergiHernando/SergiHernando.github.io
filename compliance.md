@@ -56,3 +56,7 @@ Before Accepting Users:
 ```
 
 Comparad esto con lanzar una consulta por email al profesional de referencia que responderá cuando buenamente pueda con lo que buenamente entiende o conoce de tu producto. Yo no lo desaprovecharía. Y las asesorías o despachos que se dediquen a estas cosas pueden aprovecharlo también, pero eso es harina de otro costal que queda bastante lejos de mis competencias.
+
+## Conclusión
+
+Me he puesto muy intenso con la normativa de obligado cumplimiento pero hay otros marcos que son voluntarios y de los que pienso lo mismo: nos ayudan a hacer mejor software siempre y cuando nos lo tomemos como algo potenciador, no como un obstáculo. En general mi postura es siempre la misma: la tecnología que vendes directamente o el servicio que prestas a través de tu tecnología no puede tener puntos débiles porque bastante difícil es vender como para que el software no esté preparado para ser comercializado. Y si cojea, lo mejor que se puede hacer es tener un plan.
