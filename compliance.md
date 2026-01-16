@@ -38,6 +38,21 @@ Key Compliance Gaps:
 - No Data Retention Policies - Data kept indefinitely
 - Missing Documentation - No Privacy Policy, DPIA, or Data Processing Agreements
 - No Audit Logging - Cannot track who accessed what data when
+
+Required Actions Before Production:
+
+Immediate:
+- Fix the user profile bug (undefined variable)
+- Enable HTTPS on load balancer and sessions
+- Disable Sentry PII sending
+- Remove mock users from code
+
+Before Accepting Users:
+- Implement data subject access/deletion endpoints
+- Create Privacy Policy and Cookie Consent
+- Establish Data Processing Agreements
+- Migrate from in-memory to encrypted database storage
+- Implement comprehensive audit logging
 ```
 
 Comparad esto con lanzar una consulta por email al profesional de referencia que responderá cuando buenamente pueda con lo que buenamente entiende o conoce de tu producto. Yo no lo desaprovecharía. Y las asesorías o despachos que se dediquen a estas cosas pueden aprovecharlo también, pero eso es harina de otro costal que queda bastante lejos de mis competencias.
