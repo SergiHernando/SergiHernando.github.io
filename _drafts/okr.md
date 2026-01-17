@@ -32,7 +32,7 @@ Todo esto lo puedes conseguir de muchas maneras; los OKRs, como buen framework q
 
 No contratemos gente porque no tenemos manos suficientes. Eso apesta a fábrica del XIX. Contrata a quien (1) sabe hacer lo que tú no sabes hacer (o hace mejor), y (2) hoy resuelve problemas y mañana va a contribuir a hacer saltar tu organización al siguiente nivel. Me voy a salir un poco por la tangente y es que estoy leyendo mucho últimamente en X.com (peligro: echo chamber) algunos Chiefs, Heads, VPs, tal y tal, que se sienten orgullosos de programar ellos mismos los prototipos, las pruebas de concepto, las aplicaciones internas, y que ya no dependen de ingeniería, que si cuellos de botella y etc. Maldita sea: qué pretende un manager buscando productividad individual?
 
-Objetivos y resultados clave es estrategia a un ritmo brutal. Hoy en día en corporate observo que se ha pasado de planes estratégicos [sic] de 5 a 3 años. Not bad. El equivalente en OKRs sería a 4 por año. Cuando he tenido que trabajar a este ritmo me he tenido que poner las pilas y ha sido una experiencia suficientemente buena como para recomendarla a familiares y amigos. Más valiosa cuanto más aprieta la caja.
+Objetivos y resultados clave es estrategia a un ritmo brutal. Hoy en día en corporate observo que se ha pasado de planes estratégicos [sic] de 5 a 3 años. Not bad. El equivalente en OKRs sería a 4 por año. Cuando he tenido que trabajar a este ritmo me he tenido que poner las pilas infinito y ha sido una experiencia suficientemente buena como para recomendarla a familiares y amigos. NPS=10. Y más valiosa cuanto más apretaba la caja.
 
 ## Conclusión
 
