@@ -1,3 +1,7 @@
+---
+title: Integración de la compliance en el SDLC
+---
+
 Moià, 16 de enero de 2026
 
 # Software y cumplimiento
