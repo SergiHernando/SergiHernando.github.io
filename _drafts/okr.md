@@ -1,16 +1,16 @@
 Moià, 16 de enero de 2026
 
-# OKR
+# OKRs
 
-> Nadie mejor que [Angel Medinilla](https://www.udemy.com/course/estrategia-agil-con-hoshin-kanri-y-okr-s/) para explicar lo que son los OKR, cómo se implementan, errores comunes, buenas prácticas, etc. Yo aquí cuento mi experiencia personal.
+> Nadie mejor que [Angel Medinilla](https://www.udemy.com/course/estrategia-agil-con-hoshin-kanri-y-okr-s/) para explicar lo que son los OKR, cómo se implementan, errores comunes, etc. Yo aquí cuento mi experiencia personal.
 
 Me gusta trabajar con OKRs, me parecen súper útiles. Puedo entender la crítica que reciben y puedo entender que hoy en día estén cayendo en desuso, o al menos eso me parece. Pero a mi, cuando los he utilizado, me han servido para muchas cosas.
 
-Lo que me veo más potente es el esfuerzo intelectual que conlleva discutirlos y concretarlos.
+Lo que me veo más potente es el esfuerzo intelectual que conlleva discutirlos y concretarlos y que de verdad tengan el potencial de mover un negocio. Recuerdo salir de muchas reuniones con esta sensación: si de verdad conseguimos lo que queremos, tenemos una oportunidad.
 
 A veces te encuentras que los objetivos que se definen son en realidad el business as usual. Pero, tal y como yo lo entiendo, los objetivos se tienen que definir para hacer avanzar a la empresa en su estrategia. Si no tienes presencia internacional y forma parte de la estrategia abrirte a un nuevo país, Francia pongamos por caso, tendrá que haber un objetivo para ello. Y una vez estás en Francia, ya no es un objetivo mantenerse en Francia.
 
-Lo mismo en tecnología: hacer cosas no es un objetivo. Implementar tal o cual proyecto no son objetivos así como tampoco es un resultado clave el haber implementado un proyecto. Tampoco lo es cambiar de arquitectura. Todo eso son actividades que se derivan de los objetivos.
+Lo mismo en tecnología: hacer cosas no es un objetivo. Implementar tal o cual proyecto no son objetivos así como tampoco es un resultado clave el haber implementado un proyecto. Tampoco lo es cambiar de arquitectura. Todo eso son actividades que se derivan de los objetivos, si es que contribuyen de alguna forma a los resultados esperados.
 
 Algo que también he visto es definir objetivos que son obviedades. Esto lo explica muy bien Angel: no puede ser un objetivo vender más y gastar menos. También lo dice de otra manera Richard Rumelt en Good Strategy Bad Strategy.
 
