@@ -1,9 +1,9 @@
-# Sergi Hernando Sánchez
+Last updated: January 2026
 
 ## Contact
 
-- **Phone:** +34 655 268 716
-- **Email:** sergi@hernando.digital
+- **Phone:** [redacted]
+- **Email:** [redacted]
 - **LinkedIn:** https://www.linkedin.com/in/sergihernando/
 - **GitHub:** https://github.com/SergiHernando
 
