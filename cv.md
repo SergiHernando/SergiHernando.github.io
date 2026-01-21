@@ -27,33 +27,29 @@ I love getting to know businesses in depth, understanding their environment, cha
 ## Professional Experience
 
 ### Chief Technology Officer
-**Sploro** — Oct 2024 – Nov 2025
+**Sploro** (Oct 2024 - Nov 2025)
 
-I led the product development organization, overseeing software engineering, design, cloud infrastructure, data, operations, compliance, and security. I was responsible for defining engineering practices, systems architecture, and technical strategy, ensuring the scalability, security, and reliability of our technology platform. I also drove regulatory compliance and information security initiatives to meet industry standards and business requirements.
-
-I led the hiring and management of technical talent across multiple disciplines, empowering the team to perform at its best to deliver feasible and valuable solutions, ensuring alignment with the business.
+As the CTO of Sploro &mdash; an innovation consultancy specializing in EU funding and R&D project management &mdash; I led the product development organization of the company, overseeing and participating in generative AI and LLMs practices, software, UI design, product management, cloud infrastructure on AWS, data, engineering, and operations. I was responsible for hiring tech talent, empowering the team to perform at its best, defining engineering practices, systems architecture, and technology strategy, ensuring the scalability, security, and reliability of the technical platform. I also drove regulatory compliance and information security initiatives to meet industry standards and business requirements.
 
 **Tech Stack:**
 - Python & Django
+- Docker
 - AWS ECR, ECS+Fargate, RDS+PostgreSQL, Cognito
 - Terraform
 - CI/CD with GitHub Actions self-hosted runners
 
 ### Chief Technology Officer
-**Science4Tech** — Apr 2021 – Sep 2024
+**Science4Tech** (Apr 2021 - Sep 2024)
 
-As CTO of Science4Tech, I was responsible for engineering practices, systems architecture, and the timely and cost-effective delivery of software solutions for oncology clinical research. Additionally, I oversaw supporting cloud infrastructure operations on AWS, ensuring compliance with information security standards and regulatory requirements (GCP, GDPR).
+As the CTO of Science4Tech &mdash; a healthtech startup &mdash; I led the company’s technological transformation, ensuring scalability, security, and regulatory compliance. After inheriting multiple applications from three different providers, each with its own tech stack, I rearchitected them applications and internalized their development and maintenance, embedding compliance with GCP and GDPR into their design. Additionally, we achieved ISO/IEC 27001:2013 certification, strengthening our information security practices. I implemented cloud-native workloads to support global operations and built cross-functional teams of designers, engineers, and domain experts, structured around value streams.
 
-Upon joining, I inherited multiple applications from three different providers, each with its own tech stack. I rearchitected these applications, internalized their development and maintenance, and embedded compliance into their design. I also led the company's efforts to achieve ISO/IEC 27001:2013 certification, strengthening its information security practices.
-
-I built cross-functional teams of designers, engineers, and domain experts, structured around value streams. Personally, I hired over 15 professionals across product design, software development, and cloud engineering, ensuring strong execution and delivery. I also championed the adoption of Infrastructure as Code (IaC) to enhance consistency, traceability, and automation of our cloud operations.
-
-As the budget holder for the Technology area, I strategically planned and executed product development, application platform design, and cloud infrastructure provisioning. This was done in close collaboration with the Chief Product & Innovation Officer to align technological initiatives with business objectives.
+In assembling the team, I personally hired over 15 professionals with expertise in product design, software development, and cloud engineering. I managed annual technology budgets of €0.7M (2023) and €1.1M (2024), optimizing resource allocation to maximize impact and accelerate delivery. I also championed the adoption of Infrastructure as Code (IaC) to enhance consistency, traceability, and infrastructure automation. My focus was always on fostering a strong product mindset with efficient execution and delivery.
 
 As a member of the executive committee, reporting directly to the CEO and the Board, I contributed to company-wide strategic decision-making, ensuring that technology played a pivotal role in driving business growth.
 
 **Tech Stack:**
 - Java & Spring Boot
+- Docker
 - AWS ECR, EKS, RDS+PostgreSQL, IAM Identity Center, GuardDuty
 - Terraform
 - KrakenD
