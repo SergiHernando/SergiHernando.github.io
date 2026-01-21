@@ -29,7 +29,7 @@ I love getting to know businesses in depth, understanding their environment, cha
 ### Chief Technology Officer
 **Sploro** — Oct 2024 – Nov 2025
 
-I led the product development organization, overseeing software engineering, design, cloud infrastructure, data, operations, compliance, and security. I'm responsible for defining engineering practices, systems architecture, and technical strategy, ensuring the scalability, security, and reliability of our technology platform. I also drive regulatory compliance and information security initiatives to meet industry standards and business requirements.
+I led the product development organization, overseeing software engineering, design, cloud infrastructure, data, operations, compliance, and security. I was responsible for defining engineering practices, systems architecture, and technical strategy, ensuring the scalability, security, and reliability of our technology platform. I also drove regulatory compliance and information security initiatives to meet industry standards and business requirements.
 
 I led the hiring and management of technical talent across multiple disciplines, empowering the team to perform at its best to deliver feasible and valuable solutions, ensuring alignment with the business.
 
