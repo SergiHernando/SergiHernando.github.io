@@ -64,9 +64,13 @@ In assembling the team, I personally hired over 15 professionals with expertise 
 As a member of the executive committee, reporting directly to the CEO and the Board, I contributed to company-wide strategic decision-making, ensuring that technology played a pivotal role in driving business growth.
 
 **Skills** \
-Leadership \
-IT Strategy \
-Budgeting
+People Management \
+Leadership & Organizational Design \
+Strategic Technology Development \
+Product Strategy & Product Mindset \
+Engineering Management \
+Budgeting \
+Compliance & Security Leadership
 
 **Tech Stack** \
 Java & Spring Boot \
