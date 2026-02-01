@@ -38,6 +38,12 @@ I was responsible for hiring tech talent, empowering the team to perform at its 
 
 Also, as project manager, I was coordinating the company's participation in the European [APPTake project](https://www.apptake.eu) and involved in the technical implementation.
 
+**Skills** \
+People Management \
+Strategic Technology Development \
+Product Strategy \
+Engineering Management
+
 **Tech Stack** \
 Claude Code \
 Python & Django \
@@ -56,6 +62,11 @@ As the CTO of Science4Tech &mdash; a healthtech startup &mdash; I led the compan
 In assembling the team, I personally hired over 15 professionals with expertise in product design, software development, and cloud engineering. I managed annual technology budgets of €0.7M (2023) and €1.1M (2024), optimizing resource allocation to maximize impact and accelerate delivery. I also championed the adoption of Infrastructure as Code (IaC) to enhance consistency, traceability, and infrastructure automation. My focus was always on fostering a strong product mindset with efficient execution and delivery.
 
 As a member of the executive committee, reporting directly to the CEO and the Board, I contributed to company-wide strategic decision-making, ensuring that technology played a pivotal role in driving business growth.
+
+**Skills** \
+Leadership \
+IT Strategy \
+Budgeting
 
 **Tech Stack** \
 Java & Spring Boot \
