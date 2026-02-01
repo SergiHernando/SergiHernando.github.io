@@ -110,6 +110,9 @@ Java (Android)
 
 ---
 
-## Early Career (2000-2010)
+**Software Engineer, early career** \
+Apr 2000 - Oct 2010
 
 Progressive software engineering roles across consulting and technology companies including [Hotelbeds](https://discover.hotelbeds.com) (Service Manager), [Jumbo Tours](https://jumbotours.com) (Acting Head of Development), [everis](https://es.nttdata.com) (Team Leader), [Indra](https://www.indragroup.com), Acrason Solutions, and Oasys Soft. Focused on Java development with various databases (Oracle SQL, MySQL, PostgreSQL), progressing from Junior Software Engineer to Project & Service Manager positions.
+
+Notable experience includes leading the Supplier Integrations IT business unit at Hotelbeds, managing requirements prioritization, change management, and release management. Early technical work included C programming at Oasys Soft, J2EE applications for real estate management, PalmOS development, and systems administration.
